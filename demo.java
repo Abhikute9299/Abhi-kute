@@ -1,7 +1,7 @@
-Class demo()
+Class demo
   {
-  pubilc static void main (string args[])
+  pubilc static void main (String args[])
     {
-    System.out.printl("hello new york");
+    System.out.println("hello new york");
   }
 }
